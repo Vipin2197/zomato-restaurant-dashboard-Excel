@@ -3,10 +3,35 @@
 Zomato Insights: Global Restaurant Performance Dashboard
 A comprehensive, interactive Excel-based dashboard designed to analyze restaurant data from Zomato, focusing on cuisines, ratings, pricing, and geographic trends.
 
-2. Short Description / Purpose
+[Questions
+
+>. Build a Data Model using the Sheets in the Excel File
+>. Build a Calendar Table using the Columns Datekey_Opening ( Which has Dates from Minimum Dates and Maximum Dates)
+  Add all the below Columns in the Calendar Table using the Formulas.
+   A.Year
+   B.Monthno
+   C.Monthfullname
+   D.Quarter(Q1,Q2,Q3,Q4)
+   E. YearMonth ( YYYY-MMM)
+   F. Weekdayno
+   G.Weekdayname
+   H.FinancialMOnth ( April = FM1, May= FM2  …. March = FM12)
+   I. Financial Quarter ( Quarters based on Financial Month FQ-1 . FQ-2..)
+>. Convert the Average cost for 2 column into USD dollars (currently the Average cost for 2 in local currencies
+>.Find the Numbers of Resturants based on City and Country.
+>.Numbers of Resturants opening based on Year , Quarter , Month
+>. Count of Resturants based on Average Ratings
+>. Create buckets based on Average Price of reasonable size and find out how many resturants falls in each buckets
+>.Percentage of Resturants based on "Has_Table_booking"
+>.Percentage of Resturants based on "Has_Online_delivery"
+>. Develop Charts based on Cusines, City, Ratings ( Candidate have to think about new KPI to analyse)
+>. Build a Dashboard for the KPI's Above.  ]
+
+
+3. Short Description / Purpose
 The Zomato Restaurant Analytics Dashboard in Excel offers a dynamic interface to explore and compare 10,000+ restaurants globally. Users can filter by location, cuisine type, cost, and customer ratings using PivotTables, slicers, and charts. Tailored for restaurant owners, analysts, and marketers, it helps identify trends, optimize pricing, and uncover market gaps.
 
-3. Tech Stack
+4. Tech Stack
 Microsoft Excel – Main platform for data visualization.
 
 Power Query – For data cleaning and transformation.
