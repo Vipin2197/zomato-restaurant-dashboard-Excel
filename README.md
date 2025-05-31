@@ -3,7 +3,7 @@
 Zomato Insights: Global Restaurant Performance Dashboard
 A comprehensive, interactive Excel-based dashboard designed to analyze restaurant data from Zomato, focusing on cuisines, ratings, pricing, and geographic trends.
 
-[Questions
+> Questions
 
 >. Build a Data Model using the Sheets in the Excel File
 >. Build a Calendar Table using the Columns Datekey_Opening ( Which has Dates from Minimum Dates and Maximum Dates)
@@ -25,7 +25,7 @@ A comprehensive, interactive Excel-based dashboard designed to analyze restauran
 >.Percentage of Resturants based on "Has_Table_booking"
 >.Percentage of Resturants based on "Has_Online_delivery"
 >. Develop Charts based on Cusines, City, Ratings ( Candidate have to think about new KPI to analyse)
->. Build a Dashboard for the KPI's Above.  ]
+>. Build a Dashboard for the KPI's Above.  
 
 
 3. Short Description / Purpose
